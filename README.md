@@ -1,18 +1,62 @@
-Hi there 👋🏻 
-My name is Alan Bahena and I'm an Engineer with a BA in Management for Engineering ⚙️💻🔋 
+# Alan Bahena
 
-I'm passionate about building amazing web & mobile applications. I'm specialized in web front-end development with significant experience working with
-HTML 5, CSS 3, Sass, Javascript, React,js, Redux, and iOS development with Swift & Xcode. 
-I'm also proficient with design engineering (Animations, Layout Design, Prototypes & Mockups) with Figma, Adobe XD, Adobe Photoshop, Adobe Premier Pro & Adobe
-After Effects. 
+AI Systems Engineer building scalable, production-grade systems under real-world constraints.
 
-👀 I’m interested in helping the world to design, develop and launch successful softwares. 
+---
 
-🌱 I’m currently enhancing my skills as a full-stack developer learning complex features in Next.JS & Node.js. 
+## About
 
-Within my profile on Github, you can find some of the projects that I have worked on in recent years 🧑🏻‍🔬 
+I design and implement end-to-end systems that operate beyond prototypes — systems that survive scale, operational complexity, and failure.
 
-<!---
-Alanbahena/Alanbahena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My background spans enterprise engineering and startup execution, shaping how I approach software: architecture first, technology second.
+
+Today my work centers on applied AI, system design, and operational infrastructure — building cohesive systems across backend, data, cloud, and AI layers.
+
+Because deploying a model is easy.  
+Designing a system that remains stable under growth is not.
+
+---
+
+## Current Focus
+
+### Zenet
+
+I’m building **Zenet**, a modular operational system for the restaurant industry.
+
+The objective is structural standardization before automation:
+
+- Designing decision layers  
+- Aligning workflows  
+- Creating reliable data pipelines  
+- Integrating AI into stable operational architecture  
+- Building scalable, long-term infrastructure  
+
+Zenet is designed as a system — not a feature-driven product.
+
+---
+
+## Technical Areas
+
+- AI & LLM integration (frontier and open-source models)
+- Agentic workflows & orchestration systems
+- Retrieval-Augmented Generation (RAG)
+- Machine learning in production environments
+- End-to-end system implementation (backend, cloud, data, AI layers)
+- System observability & lifecycle design
+
+---
+
+## Engineering Principles
+
+- Architecture before optimization  
+- Constraints before features  
+- Observability before scale  
+- Systems over isolated solutions  
+
+Complex systems don’t fail randomly — they fail structurally.
+
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/alanbahena/
